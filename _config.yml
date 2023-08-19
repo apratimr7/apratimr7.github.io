@@ -8,7 +8,7 @@ middle_name:
 last_name: Rastogi
 email: saran.apratim007@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Hi! I am Apratim. I am an aspiring physicist. 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -123,9 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Cosmoseeker # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: I write about physics and philosophy
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -140,7 +140,7 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
+  repo: apratimr7/exm_projects     # <your-github-user-name>/<your-github-repo-name>
   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
