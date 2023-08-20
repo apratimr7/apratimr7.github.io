@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Apratim Rastogi",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "saran.apratim007@gmail.com",
+    "phone": "+91 7376182210",
+    "url": "https://apratimr7.github.io",
+    "summary": "An aspiring physicist and philosopher who loves to ponder about the mysteries of the universe",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "2/4/6 Awas Vikas Colony",
+      "postalCode": "225001",
+      "city": "Barabanki",
+      "countryCode": "IN",
+      "region": "Uttar Pradesh"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Apratim Rastogi",
+        "url": "https://twitter.com/rastogi_apratim"
       }
     ]
   },
@@ -63,7 +63,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker"
     },
     {
