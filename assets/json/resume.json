@@ -6,7 +6,7 @@
     "email": "saran.apratim007@gmail.com",
     "phone": "+91 7376182210",
     "url": "https://apratimr7.github.io",
-    "summary": "An aspiring physicist and philosopher who loves to ponder about the mysteries of the universe",
+    "summary": "An aspiring physicist and philosopher who loves to ponder about the mysteries of the universe. Looking for the oportunities to learn new things everyday.",
     "location": {
       "address": "2/4/6 Awas Vikas Colony",
       "postalCode": "225001",
@@ -24,32 +24,45 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": " ",
+      "position": " ",
+      "url": " ",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        ""
       ]
     }
   ],
   "volunteer": [],
+  
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "City Montessori School",
+      "area": "PCM, and Computer Science",
+      "studyType": "High School",
+      "startDate": "Jul 2012",
+      "endDate": "Mar 2020",
+      "CGPA": "92%",
       "courses": [
-        "Theory of Relativity"
+        "Mechanics, Quantum Mechanics"
+      ]
+    },
+    {
+      "institution": "Thapar Institute of Engineering and Technology",
+      "url": "https://www.uzh.ch/",
+      "area": "Physics(Hons) and Philosphy (minor)",
+      "studyType": "Bachelor of Liberal Arts and Sciences",
+      "startDate": "Aug 2020",
+      "endDate": "Present",
+      "CGPA": "8/10",
+      "courses": [
+        "Mechanics, Quantum Mechanics"
       ]
     }
   ],
+  
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -58,9 +71,18 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
+
   "certificates": [],
+
   "publications": [],
-  "skills": [],
+
+  "skills": [
+    {"Languages": "Python, C/C++, Julia, FORTRAN, LATEX",
+    "Tools": "GNU Plot, Matplotlib, Tensorflow, Git/GitHub, Unix Shell, VS Code",
+    "Soft Skills": "Academic Writing and Presentation, Analytical Thinking, Strong Communication, and leadership",
+    "Other Relevant Skills": "Mathematical Modeling and Numerical Analysis, Simulations"}
+  ],
+  
   "languages": [
     {
       "language": "Hindi",
@@ -71,6 +93,7 @@
       "fluency": "Fluent"
     }
   ],
+  
   "interests": [],
   "references": [],
   "projects": []
