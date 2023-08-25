@@ -46,7 +46,7 @@
       "endDate": "Mar 2020",
       "CGPA": "92%",
       "courses": [
-        "Mechanics, Quantum Mechanics"
+        
       ]
     },
     {
@@ -64,12 +64,7 @@
   ],
   
   "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+  
   ],
 
   "certificates": [],

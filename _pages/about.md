@@ -13,14 +13,14 @@ profile:
   #  <p>Barabanki, Uttar Pradesh</p>
   #  <p>225001</p>
 
-news: true  # includes a list of news items
+news: false # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Apratim Rastogi. 
+I am a Physics hons and Philosophy minor final year undergrad student at the Thapar School of Liberal Arts and Sciences. I am deeply interested in the fundamental question of theoretical physics, philosophy of physics, and metaphysics. Looking for opportunities to work on interesting projects and improve my research skills. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also like to explore and learn about new technologies, neuroscience, AI, and Consiousness, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also a lead guitarist and a music ethusiast. Heavily inspired by bands like Dream Theatre, Periphery, Born of Osiris, etc, I like to write technical riffs and leads. Apart from guitar, I also like to play piano, but I am not good at it. 
