@@ -62,8 +62,35 @@
       ]
     }
   ],
+
+  "projects": [
+    {
+      "name":"Computational modeling of Leonard Jones fluid using Monte Carlo Metropolis algorithm",
+      "summary":"Simulated the relation between pressure and density of a randomly configured Leonard Jones fluid at two different temperatures using Metropolis Algorithm with periodic boundary conditions. Code implemented in C++ and Gnuplot"
+    }
+  ],
   
   "awards": [
+    {
+      "date": "Aug 2023",
+      "title":"TSLAS merit-based Scholarship",
+      "url": " ",
+      "summary":"Awarded 50% scholarship for academic performance based on Academic Years 2020 to 2023"
+    },
+    {
+      "date": "Jun 2023",
+      "title":"PSI Current Debates in Philosophy of Science (Bengaluru)",
+      "url": " ",
+      "place":"Bengaluru",
+      "summary": "Awarded rupees 10000 to attend and participate in the conference organized by Philosophy of Science India at Azim Premji University"
+    },
+    {
+      "date": "Jan 2023",
+      "title":"International Philosophy Conference in India (Delhi)",
+      "url": " ",
+      "place":"Delhi",
+      "summary": "Recieved full funding to attend and participate in the conference held in India International Center, Delhi"
+    }
   
   ],
 
@@ -72,10 +99,10 @@
   "publications": [],
 
   "skills": [
-    {"Languages": "Python, C/C++, Julia, FORTRAN, LATEX",
-    "Tools": "GNU Plot, Matplotlib, Tensorflow, Git/GitHub, Unix Shell, VS Code",
-    "Soft Skills": "Academic Writing and Presentation, Analytical Thinking, Strong Communication, and leadership",
-    "Other Relevant Skills": "Mathematical Modeling and Numerical Analysis, Simulations"}
+    {"name": "Landuages: Python, C/C++, Julia, FORTRAN, LATEX"},
+    {"name": "Tools: GNU Plot, Matplotlib, Tensorflow, Git/GitHub, Unix Shell, VS Code"},
+    {"name":"Soft Skills: Academic Writing and Presentation, Analytical Thinking, Strong Communication, and leadership"},
+    {"name":"Other Relevant Skills: Mathematical Modeling and Numerical Analysis, Simulations"}
   ],
   
   "languages": [
@@ -90,6 +117,6 @@
   ],
   
   "interests": [],
-  "references": [],
-  "projects": []
+  "references": []
+  
 }

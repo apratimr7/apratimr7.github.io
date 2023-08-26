@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-08-26 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Welcome to my website and blog. You can read my first blog post on phenomenology of music.
