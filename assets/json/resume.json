@@ -40,6 +40,7 @@
   "education": [
     {
       "institution": "City Montessori School",
+      "url": "https://www.cmseducation.org/campuses/gomtinagar1/index.aspx",
       "area": "PCM, and Computer Science",
       "studyType": "High School",
       "startDate": "Jul 2012",
@@ -51,7 +52,7 @@
     },
     {
       "institution": "Thapar Institute of Engineering and Technology",
-      "url": "https://www.uzh.ch/",
+      "url": "https://tslas.thapar.edu/",
       "area": "Physics(Hons) and Philosphy (minor)",
       "studyType": "Bachelor of Liberal Arts and Sciences",
       "startDate": "Aug 2020",
@@ -66,6 +67,7 @@
   "projects": [
     {
       "name":"Computational modeling of Leonard Jones fluid using Monte Carlo Metropolis algorithm",
+      "url":"https://github.com/apratimr7/simple_projects/tree/main/Leonard%20Jones%20Fluid",
       "summary":"Simulated the relation between pressure and density of a randomly configured Leonard Jones fluid at two different temperatures using Metropolis Algorithm with periodic boundary conditions. Code implemented in C++ and Gnuplot"
     }
   ],

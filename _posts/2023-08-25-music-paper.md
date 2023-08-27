@@ -2,7 +2,7 @@
 layout: distill
 title: Experience of music, identity, and anticipation
 description: A phenomenological approach to understanding music and our identity
-tags: distill formatting
+tags: philosophy music phenomenology
 giscus_comments: true
 date: 2023-08-25
 featured: true
